@@ -1,5 +1,3 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
-  <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="ctrl alt r" />
-  </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
 </keymap>
