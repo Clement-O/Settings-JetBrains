@@ -17,6 +17,7 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>constant.js</mask>
+    <mask>*test.js</mask>
     <mask>*.js</mask>
   </component>
 </application>
