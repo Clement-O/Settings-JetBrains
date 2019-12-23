@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".improvements" type="Markdown" />
       <mapping pattern=".improvements2" type="Markdown" />
+      <mapping ext="req" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
