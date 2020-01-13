@@ -26,6 +26,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="const" />
+        <option value="object.close" />
       </list>
     </option>
   </inspection_tool>
