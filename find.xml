@@ -18,12 +18,11 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>constant.js</mask>
+    <mask>*test.js</mask>
     <mask>index.js</mask>
     <mask>messages.js</mask>
     <mask>*.rej</mask>
-    <mask>*js</mask>
-    <mask>*.py</mask>
-    <mask>*test.js</mask>
     <mask>*.js</mask>
+    <mask>*.py</mask>
   </component>
 </application>
