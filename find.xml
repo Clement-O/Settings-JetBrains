@@ -22,7 +22,7 @@
     <mask>index.js</mask>
     <mask>messages.js</mask>
     <mask>*.rej</mask>
-    <mask>*.js</mask>
     <mask>*.py</mask>
+    <mask>*.js</mask>
   </component>
 </application>
