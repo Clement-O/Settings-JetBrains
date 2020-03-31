@@ -1,0 +1,7 @@
+<templateSet group="Django">
+  <template name="dprint" value="# Todo: To Remove&#10;import logging&#10;from pprint import pformat&#10;&#10;logging.warning(&quot;&quot; * 30)&#10;logging.warning(pformat())&#10;logging.warning(&quot;&quot; * 30)" description="print for django and docker" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
