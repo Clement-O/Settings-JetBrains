@@ -1,5 +1,7 @@
 <templateSet group="Django">
-  <template name="dprint" value="# Todo: To Remove&#10;import logging&#10;from pprint import pformat&#10;&#10;logging.warning(&quot;&quot; * 30)&#10;logging.warning(pformat())&#10;logging.warning(&quot;&quot; * 30)" description="print for django and docker" toReformat="false" toShortenFQNames="true">
+  <template name="dprint" value="# Todo: To Remove&#10;import logging&#10;from pprint import pformat&#10;&#10;logging.warning(&quot;$0$&quot; * 30)&#10;logging.warning(pformat($end$))&#10;logging.warning(&quot;$0$&quot; * 30)" description="print for django and docker" toReformat="false" toShortenFQNames="true">
+    <variable name="0" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
     </context>
