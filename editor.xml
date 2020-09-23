@@ -3,6 +3,7 @@
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="\b(todo|fixme|temp)\b.*" />
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>

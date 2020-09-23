@@ -1,0 +1,17 @@
+<templateSet group="React">
+  <template name="frow" value="&lt;Row type=&quot;flex&quot;&gt;&#10;    $END$&#10;&lt;/Row&gt;" description="Row flex" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="scol" value="&lt;Col span={$N$}&gt;&#10;    $END$&#10;&lt;/Col&gt;" description="Col span" toReformat="false" toShortenFQNames="true">
+    <variable name="N" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ECMAScript6" value="true" />
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
