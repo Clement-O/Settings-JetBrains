@@ -25,8 +25,8 @@
     <mask>messages.js</mask>
     <mask>*.rej</mask>
     <mask>*.test.js</mask>
-    <mask>*.py</mask>
     <mask>*.js</mask>
     <mask>*.js, *.json</mask>
+    <mask>*.py</mask>
   </component>
 </application>
